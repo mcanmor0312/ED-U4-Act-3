@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package Sample;
+package Sample2;
 
 import java.util.concurrent.TimeoutException;
 import java.lang.InterruptedException;

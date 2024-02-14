@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit4TestClass.java to edit this template
  */
 
-import Sample.Utils;
+import Sample2.Utils;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;

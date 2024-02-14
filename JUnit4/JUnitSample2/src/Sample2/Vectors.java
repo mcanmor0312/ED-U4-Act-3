@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package sample;
+package Sample2;
 
 /**
  * Sample utility class for vector algebra.
